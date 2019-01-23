@@ -6,8 +6,8 @@ Test Environment Demo
 
 The project structure  is following the basic concepts described here: https://docs.python-guide.org/writing/structure/.
 
-./core modules contains the main logic
-./helper module contains a set of general helper functions
+* ./core modules contains the main logic
+* ./helper module contains a set of general helper functions
 
 
 # Sprint objectives
