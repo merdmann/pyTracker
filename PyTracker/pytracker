@@ -1,1 +1,4 @@
-#!/c/Users/michaelerdmann/bin/Python/Python37/python ./pytracker/pytracker.py
+#!/bin/sh -x
+# Wrapper for pyTracker
+PP="/c/Users/michaelerdmann/bin/Python/Python37/python"
+exec -c "${PP} $0.py" 
