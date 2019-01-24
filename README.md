@@ -12,7 +12,13 @@ The project structure  is following the basic concepts described here: https://d
 
 # Sprint objectives
 
-Th objective of SPrint_1 is to provide the project foundation which it to be used in the 
-following sprints by adding further modules.
+* Sprint_1 The objective of Sprint_1 is to provide the project foundation which it to be used in the 
+  following sprints by adding further modules.
+
+* Sprint 2a  Actually the requirements for Sprint_1 have not been totally described a  few small
+  this need to be added. So i am getting an unplanned sprint because of my execution environment.
+  * It shall be possible to start pytracker from any place with a valid path.
+  
+
 
 
